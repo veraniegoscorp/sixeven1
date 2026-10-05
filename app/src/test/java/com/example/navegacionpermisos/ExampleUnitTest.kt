@@ -1,4 +1,4 @@
-package vicho.app.sixeven
+package com.example.navegacionpermisos
 
 import org.junit.Test
 

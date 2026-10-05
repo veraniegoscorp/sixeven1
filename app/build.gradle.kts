@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "vicho.app.sixeven"
+    namespace = "com.example.navegacionpermisos"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "vicho.app.sixeven"
+        applicationId = "com.example.navegacionpermisos"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

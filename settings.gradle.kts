@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "sixeven"
+rootProject.name = "Navegacion Permisos"
 include(":app")
